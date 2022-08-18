@@ -1,6 +1,6 @@
 # Exercice - 1
 ## Premier thème et plugin  Wordpress
-### Contient 3 commits
+### Contient 10 commits
 
 [github-page](https://saidboude.github.io/theme-31w)
 > Le thème conient 5 fichiers:
